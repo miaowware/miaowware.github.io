@@ -25,8 +25,24 @@ body {
 }
 
 /* section header */
-.prompt {
+h1::before {
+    content: "miaowware $ " / "";
     color: #f7a8da;
+    font-size: 1em;
+}
+
+h1 {
+    font-size: 1em;
+}
+
+h2::before {
+    content: "## " / "";
+    color: #f7a8da;
+    font-size: 1em;
+}
+
+h2 {
+    font-size: 1em;
 }
 
 .container {

@@ -3,7 +3,9 @@ permalink: /coc-rules
 layout: default
 ---
 
-<p id="chat-rules"><span class="prompt">miaowware $</span> Rules for Chat Platforms</p>
+<a id="chat-rules"></a>
+
+# Rules for Chat Platforms
 
 Try to stay on topic.
 The occasional off-topic conversation is fine, but we will not tolerate spam and shitposting.
@@ -16,7 +18,9 @@ The following all apply in their entirety on their respective platforms:
 - [Discord Community Guidelines](https://discord.com/guidelines)
 - [Discord Terms of Service (ToS)](https://discord.com/terms)
 
-<p id="code-of-conduct"><span class="prompt">miaowware $</span> MiaowWare Code of Conduct</p>
+<a id="code-of-conduct"></a>
+
+# MiaowWare Code of Conduct
 
 MiaowWare is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form.
 
